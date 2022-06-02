@@ -1,3 +1,2 @@
 # scientific-convert
-Convert scientific notation to a number
-Gotta support negative numbers once I feel like it
+Convert scientific notation to a number, gonna support negative numbers once I feel like it
